@@ -1,0 +1,51 @@
+.animal-fact {
+  font-style: italic;
+  text-align: justify;
+}
+
+.animal-description {
+  text-align: justify;
+  letter-spacing: -0.5px;
+}
+
+#photo {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 0.8em;
+  padding-top: 1em;
+}
+
+.container {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #D4D4D4;
+  padding: 1em;
+  width: 300px;
+  margin: auto;
+  box-shadow: 5px 5px 1px #E9E9E9;
+}
+
+.info-box {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #D4D4D4;
+  padding: 0px 12px 10px 12px;
+}
+
+ul li span {
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 25px;
+  letter-spacing: -1px;
+  padding: 5px;
+  margin: 2px;
+}
